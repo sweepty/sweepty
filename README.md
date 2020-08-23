@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📱I'm iOS developer interested in UX.
+📱I'm a iOS developer interested in UX.
 
 [![sweepty's github stats](https://github-readme-stats.vercel.app/api?username=sweepty)](https://github.com/anuraghazra/github-readme-stats)
