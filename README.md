@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 📱I'm a iOS developer interested in UX.
-
-[![sweepty's github stats](https://github-readme-stats.vercel.app/api?username=sweepty)](https://github.com/anuraghazra/github-readme-stats)
